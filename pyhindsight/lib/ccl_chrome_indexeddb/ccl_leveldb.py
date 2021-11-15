@@ -31,7 +31,7 @@ import enum
 from collections import namedtuple
 from types import MappingProxyType
 
-from pyhindsight.lib.ccl_chrome_indexeddb import ccl_simplesnappy
+from . import ccl_simplesnappy
 
 __version__ = "0.4"
 __description__ = "A module for reading LevelDB databases"

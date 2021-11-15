@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/obsidianforensics/hindsight#readme",
   "dependencies": {
+    "fast-json-patch": "^3.1.0",
     "sqlite-view": "^0.1.8"
   },
   "devDependencies": {
